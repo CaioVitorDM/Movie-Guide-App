@@ -105,10 +105,6 @@ h2{
     font-weight: 300;
 }
 
-.details span{
-    margin-right: 0.3em 0;
-}
-
 .genre{
     display: flex;
     justify-content: space-around;

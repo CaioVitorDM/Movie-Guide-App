@@ -29,8 +29,8 @@ let getMovie = () =>{
                             <h4>${data.imdbRating}</h4>
                         </div>
                         <div class="details">
-                            <span>${data.Rated}</span>
-                            <span>${data.Year}</span>
+                            <span style="margin-right: 10px">${data.Rated}</span>
+                            <span style="margin-right: 10px">${data.Year}</span>
                             <span>${data.Runtime}</span>
                         </div>
                         <div class="genre">
